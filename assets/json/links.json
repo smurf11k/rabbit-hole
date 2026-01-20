@@ -1,0 +1,1091 @@
+{
+  "meta": {
+    "title": "Rabbit Hole",
+    "version": 1
+  },
+  "categories": [
+    { "id": "dev", "label": "Development" },
+    { "id": "coding", "label": "Coding" },
+    { "id": "design", "label": "Design" },
+    { "id": "inspiration", "label": "Inspiration" },
+    { "id": "fonts", "label": "Fonts" },
+    { "id": "colors", "label": "Colors" },
+    { "id": "photo", "label": "Photo" },
+    { "id": "cinema", "label": "Cinematography" },
+    { "id": "mockups", "label": "Mockups" },
+    { "id": "icons", "label": "Icons" },
+    { "id": "music", "label": "Music" },
+    { "id": "learning", "label": "Learning" },
+    { "id": "education", "label": "Education" },
+    { "id": "ai", "label": "AI" },
+    { "id": "useful", "label": "Useful" },
+    { "id": "food", "label": "Food" },
+    { "id": "sport", "label": "Sport" },
+    { "id": "fun", "label": "Cure Boredom" },
+    { "id": "games", "label": "Games" },
+    { "id": "travel", "label": "Travel" },
+    { "id": "maps", "label": "Maps" },
+    { "id": "3d", "label": "3D" }
+  ],
+  "links": [
+    {
+      "id": "mdn",
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/",
+      "description": "Reference for HTML/CSS/JS and Web APIs.",
+      "categories": ["dev", "learning", "education", "coding"]
+    },
+    {
+      "id": "github",
+      "title": "GitHub",
+      "url": "https://github.com/",
+      "description": "Code hosting and collaboration.",
+      "categories": ["dev", "tools"]
+    },
+    {
+      "id": "figma",
+      "title": "Figma",
+      "url": "https://www.figma.com/",
+      "description": "UI/UX design and prototyping.",
+      "categories": ["design", "tools"]
+    },
+    {
+      "id": "dribbble",
+      "title": "Dribbble",
+      "url": "https://dribbble.com/",
+      "description": "Design inspiration and portfolios.",
+      "categories": ["design", "inspiration"]
+    },
+    {
+      "id": "audiotool",
+      "title": "AudioTool",
+      "url": "https://www.audiotool.com/",
+      "description": "Browser-based music production.",
+      "categories": ["music", "tools"]
+    },
+    {
+      "id": "strudel",
+      "title": "Strudel (Live Coding)",
+      "url": "https://strudel.cc/",
+      "description": "Live coding music in the browser.",
+      "categories": ["music", "dev", "coding"]
+    },
+    {
+      "id": "khan",
+      "title": "Khan Academy",
+      "url": "https://www.khanacademy.org/",
+      "description": "Free learning across subjects.",
+      "categories": ["learning", "education"]
+    },
+    {
+      "id": "notion",
+      "title": "Notion",
+      "url": "https://www.notion.so/",
+      "description": "Notes, docs, tasks, knowledge base.",
+      "categories": ["tools", "useful"]
+    },
+
+    {
+      "id": "geo-fs",
+      "title": "GeoFS",
+      "url": "https://geo-fs.com",
+      "description": "Browser flight simulator using real-world geography.",
+      "categories": ["fun", "games", "maps"]
+    },
+    {
+      "id": "thetoymaker",
+      "title": "The Toymaker",
+      "url": "https://thetoymaker.com",
+      "description": "Assorted interactive toys and mini-games.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "mapgenie",
+      "title": "Map Genie",
+      "url": "https://mapgenie.io",
+      "description": "Interactive maps and game guides.",
+      "categories": ["fun", "games", "maps"]
+    },
+    {
+      "id": "lostgamer",
+      "title": "LostGamer",
+      "url": "https://lostgamer.io",
+      "description": "Gaming-related tools and discovery.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "meshcapade",
+      "title": "Meshcapade Me",
+      "url": "https://me.meshcapade.com",
+      "description": "Create a 3D body/avatar from photos.",
+      "categories": ["fun", "3d", "tools"]
+    },
+    {
+      "id": "dungeonscrawl",
+      "title": "Dungeon Scrawl",
+      "url": "https://dungeonscrawl.com",
+      "description": "Draw DnD-style dungeon maps in the browser.",
+      "categories": ["fun", "games", "maps", "design"]
+    },
+    {
+      "id": "dverso-tools",
+      "title": "Dverso Tools",
+      "url": "https://tools.dverso.io",
+      "description": "A collection of web tools/utilities.",
+      "categories": ["tools", "useful", "fun"]
+    },
+    {
+      "id": "airconsole",
+      "title": "AirConsole",
+      "url": "https://airconsole.com",
+      "description": "Play local multiplayer games using phones as controllers.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "internet-janitor",
+      "title": "Internet Janitor (itch.io)",
+      "url": "https://internet-janitor.itch.io",
+      "description": "A small indie game/experience on itch.io.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "printablecreative",
+      "title": "Printable Creative",
+      "url": "https://printablecreative.com",
+      "description": "Printables, worksheets, templates, puzzles.",
+      "categories": ["fun", "education", "design"]
+    },
+    {
+      "id": "buildit-minecraft",
+      "title": "Build It (Minecraft)",
+      "url": "https://builditapp.com",
+      "description": "Minecraft builds and planning.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "brickit",
+      "title": "Brickit",
+      "url": "https://brickit.app",
+      "description": "LEGO build ideas from your bricks.",
+      "categories": ["fun", "tools"]
+    },
+    {
+      "id": "atlasobscura",
+      "title": "Atlas Obscura",
+      "url": "https://atlasobscura.com",
+      "description": "Explore unusual places and travel stories.",
+      "categories": ["fun", "travel", "inspiration"]
+    },
+    {
+      "id": "myretrotvs-90s",
+      "title": "90s Retro TV",
+      "url": "https://90s.myretrotvs.com",
+      "description": "Nostalgic retro TV vibe / channel surfing.",
+      "categories": ["fun", "inspiration"]
+    },
+    {
+      "id": "dearcoloringpages",
+      "title": "Dear Coloring Pages",
+      "url": "https://dearcoloringpages.com",
+      "description": "Coloring pages to print.",
+      "categories": ["fun", "design"]
+    },
+    {
+      "id": "chunkbase",
+      "title": "Chunkbase",
+      "url": "https://chunkbase.com",
+      "description": "Minecraft seed map and tools.",
+      "categories": ["fun", "games", "maps", "tools"]
+    },
+    {
+      "id": "yearin-lol",
+      "title": "Year in LoL",
+      "url": "https://yearin.lol",
+      "description": "League of Legends yearly stats for your profile.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "slow-roads",
+      "title": "Slow Roads",
+      "url": "https://slowroads.io",
+      "description": "Chill driving experience in the browser.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "townscaper",
+      "title": "Townscaper (Oskar Stålberg)",
+      "url": "https://oskarstalberg.com/Townscaper",
+      "description": "Tiny town-building toy.",
+      "categories": ["fun", "games", "inspiration", "design"]
+    },
+    {
+      "id": "motormatchup",
+      "title": "Motor Matchup",
+      "url": "https://motormatchup.com",
+      "description": "Car comparisons and matchup-style browsing.",
+      "categories": ["fun", "useful"]
+    },
+    {
+      "id": "donjon",
+      "title": "Donjon",
+      "url": "https://donjon.bin.sh",
+      "description": "DnD and tabletop RPG generators.",
+      "categories": ["fun", "games", "tools"]
+    },
+    {
+      "id": "playglenn",
+      "title": "PlayGlenn",
+      "url": "https://playglenn.com",
+      "description": "Casual interactive web experience.",
+      "categories": ["fun"]
+    },
+    {
+      "id": "heyzxz-pcol",
+      "title": "heyzxz (pcol)",
+      "url": "https://heyzxz.me/pcol/",
+      "description": "A small interactive / visual page.",
+      "categories": ["fun", "inspiration"]
+    },
+
+    {
+      "id": "supercook",
+      "title": "Supercook",
+      "url": "https://supercook.com",
+      "description": "Find recipes from ingredients you have.",
+      "categories": ["food", "useful"]
+    },
+    {
+      "id": "myfridgefood",
+      "title": "MyFridgeFood",
+      "url": "https://myfridgefood.com",
+      "description": "Recipes based on what’s in your fridge.",
+      "categories": ["food", "useful"]
+    },
+
+    {
+      "id": "learn-anything",
+      "title": "Learn Anything",
+      "url": "https://learn-anything.xyz",
+      "description": "Learning maps for topics and concepts.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "kiddo-worksheets",
+      "title": "Kiddo Worksheets",
+      "url": "https://kiddoworksheets.com",
+      "description": "Worksheets and activities for kids.",
+      "categories": ["education"]
+    },
+    {
+      "id": "playphrase",
+      "title": "PlayPhrase",
+      "url": "https://playphrase.me",
+      "description": "Find movie clips containing a phrase.",
+      "categories": ["education", "learning", "cinema"]
+    },
+    {
+      "id": "animagraffs",
+      "title": "Animagraffs",
+      "url": "https://animagraffs.com",
+      "description": "How things work with interactive visuals.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "chem-equations",
+      "title": "Chem Equations",
+      "url": "https://chemequations.com",
+      "description": "Chemistry equations and balancing help.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "cymath",
+      "title": "Cymath",
+      "url": "https://cymath.com",
+      "description": "Math problem solver and explanations.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "musica",
+      "title": "Musica",
+      "url": "https://musica.com",
+      "description": "Music learning and resources.",
+      "categories": ["music", "education", "learning"]
+    },
+    {
+      "id": "classcentral",
+      "title": "Class Central",
+      "url": "https://classcentral.com",
+      "description": "Discover online courses and MOOCs.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "lingohut",
+      "title": "LingoHut",
+      "url": "https://lingohut.com/en",
+      "description": "Language learning with simple lessons.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "archive",
+      "title": "Internet Archive",
+      "url": "https://archive.org",
+      "description": "Books, movies, music, and historical web archives.",
+      "categories": ["education", "learning", "useful"]
+    },
+    {
+      "id": "imagine-explainers",
+      "title": "Imagine Explainers",
+      "url": "https://imagineexplainers.com",
+      "description": "Create video/podcast-style explainers for topics.",
+      "categories": ["education", "tools"]
+    },
+    {
+      "id": "seeing-theory",
+      "title": "Seeing Theory",
+      "url": "https://seeing-theory.brown.edu",
+      "description": "Interactive probability and statistics.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "typingclub",
+      "title": "TypingClub",
+      "url": "https://edclub.com/typingclub",
+      "description": "Learn touch typing.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "phet",
+      "title": "PhET Simulations",
+      "url": "https://phet.colorado.edu",
+      "description": "Interactive science and math simulations.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "biodigital",
+      "title": "BioDigital Human",
+      "url": "https://human.biodigital.com",
+      "description": "3D human anatomy exploration.",
+      "categories": ["education", "learning", "3d"]
+    },
+    {
+      "id": "pudding",
+      "title": "The Pudding",
+      "url": "https://pudding.cool",
+      "description": "Stories and knowledge through interactive essays.",
+      "categories": ["education", "learning", "inspiration"]
+    },
+    {
+      "id": "chronas",
+      "title": "Chronas",
+      "url": "https://chronas.org",
+      "description": "Interactive history maps and timelines.",
+      "categories": ["education", "learning", "maps"]
+    },
+    {
+      "id": "mindluster",
+      "title": "Mind Luster",
+      "url": "https://mindluster.com",
+      "description": "Online courses and learning resources.",
+      "categories": ["education", "learning"]
+    },
+
+    {
+      "id": "reactbits",
+      "title": "React Bits",
+      "url": "https://reactbits.dev",
+      "description": "React components/snippets and resources.",
+      "categories": ["coding", "dev"]
+    },
+    {
+      "id": "animejs",
+      "title": "anime.js",
+      "url": "https://animejs.com",
+      "description": "JavaScript animation engine.",
+      "categories": ["coding", "dev", "design"]
+    },
+    {
+      "id": "coddy",
+      "title": "Coddy",
+      "url": "https://coddy.tech",
+      "description": "Duolingo-like coding practice.",
+      "categories": ["coding", "education", "learning"]
+    },
+    {
+      "id": "codecombat",
+      "title": "CodeCombat",
+      "url": "https://codecombat.com",
+      "description": "Learn coding through gameplay.",
+      "categories": ["coding", "education", "learning", "games"]
+    },
+    {
+      "id": "checkio",
+      "title": "CheckiO",
+      "url": "https://checkio.org",
+      "description": "Practice Python and TypeScript with missions.",
+      "categories": ["coding", "education", "learning"]
+    },
+    {
+      "id": "codingame",
+      "title": "CodinGame",
+      "url": "https://www.codingame.com/start/",
+      "description": "Learn and practice coding with puzzles.",
+      "categories": ["coding", "education", "learning"]
+    },
+    {
+      "id": "flexbox-froggy",
+      "title": "Flexbox Froggy",
+      "url": "https://flexboxfroggy.com",
+      "description": "Learn CSS Flexbox through a game.",
+      "categories": ["coding", "education", "learning", "design", "games"]
+    },
+    {
+      "id": "untrusted",
+      "title": "Untrusted",
+      "url": "https://untrustedgame.com/",
+      "description": "Learn JavaScript by editing the game.",
+      "categories": ["coding", "education", "learning", "games"]
+    },
+    {
+      "id": "screeps",
+      "title": "Screeps",
+      "url": "https://screeps.com/",
+      "description": "MMO sandbox programming game.",
+      "categories": ["coding", "games"]
+    },
+    {
+      "id": "grasshopper-yz",
+      "title": "Grasshopper (web clone)",
+      "url": "https://grasshopper-yz.netlify.app/",
+      "description": "Learn JavaScript on mobile-friendly UI.",
+      "categories": ["coding", "education", "learning"]
+    },
+    {
+      "id": "elevatorsaga",
+      "title": "Elevator Saga",
+      "url": "https://play.elevatorsaga.com/",
+      "description": "Learn JavaScript by optimizing elevator logic.",
+      "categories": ["coding", "education", "learning", "games"]
+    },
+
+    {
+      "id": "gamma",
+      "title": "Gamma",
+      "url": "https://gamma.app",
+      "description": "AI presentation/document generator.",
+      "categories": ["ai", "tools", "design"]
+    },
+    {
+      "id": "emergent",
+      "title": "Emergent",
+      "url": "https://emergent.sh",
+      "description": "Build apps with AI assistance.",
+      "categories": ["ai", "coding", "tools"]
+    },
+    {
+      "id": "gambo",
+      "title": "Gambo",
+      "url": "https://gambo.ai",
+      "description": "AI tools focused on games.",
+      "categories": ["ai", "games", "tools"]
+    },
+    {
+      "id": "higgsfield",
+      "title": "Higgsfield",
+      "url": "https://higgsfield.ai",
+      "description": "AI creative tool platform.",
+      "categories": ["ai", "tools"]
+    },
+    {
+      "id": "natively",
+      "title": "Natively",
+      "url": "https://natively.dev",
+      "description": "AI-assisted building for apps/sites.",
+      "categories": ["ai", "coding", "tools"]
+    },
+    {
+      "id": "rocket-new",
+      "title": "Rocket.new",
+      "url": "https://rocket.new",
+      "description": "Generate and iterate on apps quickly.",
+      "categories": ["ai", "coding", "tools"]
+    },
+    {
+      "id": "toolfk",
+      "title": "ToolFK",
+      "url": "https://toolfk.com",
+      "description": "All-in-one AI toolbox.",
+      "categories": ["ai", "tools"]
+    },
+    {
+      "id": "napkin",
+      "title": "Napkin",
+      "url": "https://napkin.ai",
+      "description": "Turn text into simple visuals.",
+      "categories": ["ai", "design", "tools"]
+    },
+    {
+      "id": "replit",
+      "title": "Replit",
+      "url": "https://replit.com",
+      "description": "Online IDE and app hosting.",
+      "categories": ["coding", "dev", "tools", "ai"]
+    },
+    {
+      "id": "recraft",
+      "title": "Recraft",
+      "url": "https://recraft.ai",
+      "description": "AI image/vector generation tools.",
+      "categories": ["ai", "design", "tools"]
+    },
+    {
+      "id": "lovable",
+      "title": "Lovable",
+      "url": "https://lovable.dev",
+      "description": "AI web/app builder.",
+      "categories": ["ai", "coding", "tools"]
+    },
+    {
+      "id": "lovart",
+      "title": "Lovart",
+      "url": "https://lovart.ai",
+      "description": "AI design packaging tool.",
+      "categories": ["ai", "design", "tools"]
+    },
+    {
+      "id": "x-minus",
+      "title": "X-Minus",
+      "url": "https://x-minus.pro/ai",
+      "description": "Split songs into stems (vocals, drums, bass, etc.).",
+      "categories": ["ai", "music", "tools"]
+    },
+    {
+      "id": "mapscroll",
+      "title": "Mapscroll",
+      "url": "https://mapscroll.ai",
+      "description": "AI map-style visual generation.",
+      "categories": ["ai", "design", "maps"]
+    },
+    {
+      "id": "wand",
+      "title": "Wand",
+      "url": "https://wand.app",
+      "description": "From sketch to fully rendered visuals with AI.",
+      "categories": ["ai", "design", "tools"]
+    },
+    {
+      "id": "flowith",
+      "title": "Flowith",
+      "url": "https://flowith.io",
+      "description": "AI workflow/creation environment.",
+      "categories": ["ai", "tools"]
+    },
+    {
+      "id": "relume",
+      "title": "Relume",
+      "url": "https://relume.io",
+      "description": "AI website designer (works well with Figma).",
+      "categories": ["ai", "design", "tools"]
+    },
+
+    {
+      "id": "ifixit",
+      "title": "iFixit",
+      "url": "https://ifixit.com",
+      "description": "Repair guides and parts.",
+      "categories": ["useful", "tools"]
+    },
+    {
+      "id": "carcarekiosk",
+      "title": "CarCareKiosk",
+      "url": "https://carcarekiosk.com",
+      "description": "Car maintenance guides and tutorials.",
+      "categories": ["useful"]
+    },
+    {
+      "id": "1aauto",
+      "title": "1A Auto",
+      "url": "https://1aauto.com",
+      "description": "Auto parts and repair videos.",
+      "categories": ["useful"]
+    },
+    {
+      "id": "flourish",
+      "title": "Flourish",
+      "url": "https://flourish.studio",
+      "description": "Create interactive data visualizations.",
+      "categories": ["useful", "design", "tools"]
+    },
+    {
+      "id": "convertio",
+      "title": "Convertio",
+      "url": "https://convertio.co",
+      "description": "File conversion online.",
+      "categories": ["useful", "tools"]
+    },
+    {
+      "id": "systemrequirementslab",
+      "title": "System Requirements Lab",
+      "url": "https://systemrequirementslab.com",
+      "description": "Check if your PC can run games/software.",
+      "categories": ["useful", "games", "tools"]
+    },
+    {
+      "id": "roadtrippers",
+      "title": "Roadtrippers",
+      "url": "https://roadtrippers.com",
+      "description": "Plan road trips with stops and routes.",
+      "categories": ["travel", "useful", "maps"]
+    },
+    {
+      "id": "makemydrivefun",
+      "title": "Make My Drive Fun",
+      "url": "https://makemydrivefun.com",
+      "description": "Find fun stops on your drive.",
+      "categories": ["travel", "fun"]
+    },
+    {
+      "id": "fileunzip",
+      "title": "FileUnzip",
+      "url": "https://fileunzip.com",
+      "description": "Unzip files online.",
+      "categories": ["useful", "tools"]
+    },
+    {
+      "id": "magicv",
+      "title": "MagicV",
+      "url": "https://magicv.art",
+      "description": "Resume builder.",
+      "categories": ["useful", "tools"]
+    },
+
+    {
+      "id": "workoutcool",
+      "title": "Workout.cool",
+      "url": "https://workout.cool",
+      "description": "Workout planning and exercises.",
+      "categories": ["sport", "useful"]
+    },
+
+    {
+      "id": "antlii",
+      "title": "antlii.work",
+      "url": "https://antlii.work",
+      "description": "Design/creative resource site.",
+      "categories": ["design", "inspiration"]
+    },
+    {
+      "id": "jitter",
+      "title": "Jitter",
+      "url": "https://jitter.video",
+      "description": "Motion design and animation tool.",
+      "categories": ["design", "tools"]
+    },
+    {
+      "id": "grid-type",
+      "title": "Grid Type",
+      "url": "https://grid-type.com",
+      "description": "Typography and grid tools.",
+      "categories": ["design", "fonts", "tools"]
+    },
+    {
+      "id": "spacetypegenerator",
+      "title": "Space Type Generator",
+      "url": "https://spacetypegenerator.com",
+      "description": "Typography generator tool.",
+      "categories": ["design", "fonts", "tools"]
+    },
+    {
+      "id": "homebyme",
+      "title": "HomeByMe",
+      "url": "https://home.by.me",
+      "description": "Floor plan and 3D home design.",
+      "categories": ["design", "3d", "tools"]
+    },
+    {
+      "id": "gallerix",
+      "title": "Gallerix",
+      "url": "https://gallerix.org",
+      "description": "Art gallery and image archive.",
+      "categories": ["design", "inspiration", "photo"]
+    },
+    {
+      "id": "resourceboy",
+      "title": "Resource Boy",
+      "url": "https://resourceboy.com",
+      "description": "Mockups, templates, and design resources.",
+      "categories": ["design", "mockups", "tools"]
+    },
+    {
+      "id": "freesewing",
+      "title": "FreeSewing",
+      "url": "https://freesewing.eu",
+      "description": "Open-source sewing patterns.",
+      "categories": ["design", "tools"]
+    },
+    {
+      "id": "autocatalogarchive",
+      "title": "Auto Catalog Archive",
+      "url": "https://autocatalogarchive.com",
+      "description": "Archived car brochures/catalogs.",
+      "categories": ["design", "useful", "inspiration"]
+    },
+    {
+      "id": "topoexport",
+      "title": "Topo Export",
+      "url": "https://topoexport.com",
+      "description": "Export maps in 2D/3D styles.",
+      "categories": ["maps", "design", "tools"]
+    },
+    {
+      "id": "servier-medical-art",
+      "title": "Servier Medical Art",
+      "url": "https://smart.servier.com",
+      "description": "Free medical images/illustrations.",
+      "categories": ["design", "tools", "education"]
+    },
+    {
+      "id": "planyourroom",
+      "title": "Plan Your Room",
+      "url": "https://planyourroom.com",
+      "description": "Room planning tool.",
+      "categories": ["design", "tools"]
+    },
+    {
+      "id": "pacdora",
+      "title": "Pacdora",
+      "url": "https://pacdora.com",
+      "description": "Packaging design and mockups.",
+      "categories": ["design", "mockups", "tools"]
+    },
+    {
+      "id": "weallsew",
+      "title": "WeAllSew",
+      "url": "https://weallsew.com",
+      "description": "Sewing tutorials and inspiration.",
+      "categories": ["design", "inspiration"]
+    },
+    {
+      "id": "liquid-paper",
+      "title": "Liquid Paper",
+      "url": "https://liquid.paper.design",
+      "description": "Interactive design experiments.",
+      "categories": ["design", "inspiration"]
+    },
+    {
+      "id": "storytripe",
+      "title": "StoryTripe",
+      "url": "https://storytripeapp.com",
+      "description": "Storyboard creator.",
+      "categories": ["design", "tools", "cinema"]
+    },
+    {
+      "id": "svgrepo",
+      "title": "SVG Repo",
+      "url": "https://svgrepo.com",
+      "description": "Free SVG icons and vectors.",
+      "categories": ["design", "icons", "tools"]
+    },
+    {
+      "id": "contentcore",
+      "title": "ContentCore",
+      "url": "https://contentcore.xyz",
+      "description": "Content/design resources hub.",
+      "categories": ["design", "tools"]
+    },
+    {
+      "id": "palettemaker",
+      "title": "PaletteMaker",
+      "url": "https://palettemaker.com/app",
+      "description": "Build and test color palettes.",
+      "categories": ["design", "colors", "tools"]
+    },
+    {
+      "id": "mockups-design",
+      "title": "Mockups Design",
+      "url": "https://mockups-design.com",
+      "description": "Free mockups and design assets.",
+      "categories": ["design", "mockups"]
+    },
+    {
+      "id": "textbehindimage",
+      "title": "Text Behind Image",
+      "url": "https://textbehindimage.com",
+      "description": "Put text behind subjects in photos easily.",
+      "categories": ["design", "photo", "tools"]
+    },
+
+    {
+      "id": "pixefika",
+      "title": "Pixefika",
+      "url": "https://pixefika.com",
+      "description": "Design inspiration.",
+      "categories": ["inspiration", "design"]
+    },
+    {
+      "id": "siteinspire",
+      "title": "SiteInspire",
+      "url": "https://siteinspire.com",
+      "description": "Website design inspiration gallery.",
+      "categories": ["inspiration", "design"]
+    },
+    {
+      "id": "minimal-gallery",
+      "title": "Minimal.Gallery",
+      "url": "https://minimal.gallery",
+      "description": "Minimal web design inspiration.",
+      "categories": ["inspiration", "design"]
+    },
+    {
+      "id": "dark-mode-design",
+      "title": "Dark Mode Design",
+      "url": "https://darkmodedesign.com",
+      "description": "Dark UI inspiration.",
+      "categories": ["inspiration", "design"]
+    },
+    {
+      "id": "cosmos",
+      "title": "Cosmos",
+      "url": "https://cosmos.so",
+      "description": "Save and organize inspiration.",
+      "categories": ["inspiration", "tools"]
+    },
+    {
+      "id": "cssdesignawards",
+      "title": "CSS Design Awards",
+      "url": "https://cssdesignawards.com",
+      "description": "Awarded web design inspiration.",
+      "categories": ["inspiration", "design"]
+    },
+
+    {
+      "id": "uprock-fonts",
+      "title": "fonts.uprock.ru",
+      "url": "https://fonts.uprock.ru",
+      "description": "Font collection.",
+      "categories": ["fonts", "design"]
+    },
+    {
+      "id": "fontdesk",
+      "title": "FontDesk",
+      "url": "https://fontdesk.com",
+      "description": "Fonts and typography resources.",
+      "categories": ["fonts", "design"]
+    },
+    {
+      "id": "rufonts",
+      "title": "RuFonts",
+      "url": "https://rufonts.ru",
+      "description": "Russian font catalog.",
+      "categories": ["fonts", "design"]
+    },
+    {
+      "id": "freefonts-1001",
+      "title": "1001 Free Fonts",
+      "url": "https://www.1001freefonts.com",
+      "description": "Large font library.",
+      "categories": ["fonts", "design"]
+    },
+
+    {
+      "id": "huemint",
+      "title": "Huemint",
+      "url": "https://huemint.com",
+      "description": "AI-ish palette generation.",
+      "categories": ["colors", "design", "tools"]
+    },
+    {
+      "id": "coolors",
+      "title": "Coolors",
+      "url": "https://coolors.co",
+      "description": "Color palette generator.",
+      "categories": ["colors", "design", "tools"]
+    },
+    {
+      "id": "adobe-color",
+      "title": "Adobe Color",
+      "url": "https://color.adobe.com",
+      "description": "Create and explore color themes.",
+      "categories": ["colors", "design", "tools"]
+    },
+    {
+      "id": "colorhunt",
+      "title": "Color Hunt",
+      "url": "https://colorhunt.com",
+      "description": "Curated color palettes.",
+      "categories": ["colors", "design", "inspiration"]
+    },
+    {
+      "id": "colorsinspo",
+      "title": "Colorsinspo",
+      "url": "https://colorsinspo.com",
+      "description": "Colors and gradients inspiration.",
+      "categories": ["colors", "design", "inspiration"]
+    },
+    {
+      "id": "colorscheme",
+      "title": "ColorScheme",
+      "url": "https://colorscheme.com",
+      "description": "Create color schemes.",
+      "categories": ["colors", "design", "tools"]
+    },
+
+    {
+      "id": "unsplash",
+      "title": "Unsplash",
+      "url": "https://unsplash.com",
+      "description": "Free high-quality photos.",
+      "categories": ["photo", "design"]
+    },
+    {
+      "id": "freepik",
+      "title": "Freepik",
+      "url": "https://freepik.com",
+      "description": "Vectors, photos, PSDs, and assets.",
+      "categories": ["photo", "design"]
+    },
+    {
+      "id": "pexels",
+      "title": "Pexels",
+      "url": "https://pexels.com",
+      "description": "Free stock photos and videos.",
+      "categories": ["photo", "design"]
+    },
+    {
+      "id": "lifeofpix",
+      "title": "Life of Pix",
+      "url": "https://lifeofpix.com",
+      "description": "Free photos.",
+      "categories": ["photo"]
+    },
+    {
+      "id": "pixabay",
+      "title": "Pixabay",
+      "url": "https://pixabay.com",
+      "description": "Free images, videos, and music.",
+      "categories": ["photo", "design", "music"]
+    },
+    {
+      "id": "stocksnap",
+      "title": "StockSnap",
+      "url": "https://stocksnap.io",
+      "description": "Free stock photos.",
+      "categories": ["photo"]
+    },
+
+    {
+      "id": "mockuptree",
+      "title": "MockupTree",
+      "url": "https://mockuptree.com",
+      "description": "Free mockups.",
+      "categories": ["mockups", "design"]
+    },
+    {
+      "id": "mockuuups",
+      "title": "Mockuuups Studio",
+      "url": "https://mockuuups.studio",
+      "description": "Mockups and scenes.",
+      "categories": ["mockups", "design", "tools"]
+    },
+    {
+      "id": "unblast",
+      "title": "Unblast",
+      "url": "https://unblast.com",
+      "description": "Design mockups and resources.",
+      "categories": ["mockups", "design"]
+    },
+    {
+      "id": "mockup-maison",
+      "title": "Mockup Maison",
+      "url": "https://mockup.maison",
+      "description": "Mockups and templates.",
+      "categories": ["mockups", "design"]
+    },
+    {
+      "id": "blugraphic",
+      "title": "Blugraphic",
+      "url": "https://blugraphic.com",
+      "description": "Mockups and graphics resources.",
+      "categories": ["mockups", "design"]
+    },
+    {
+      "id": "mockupworld",
+      "title": "Mockup World",
+      "url": "https://mockupworld.co",
+      "description": "Free mockups.",
+      "categories": ["mockups", "design"]
+    },
+
+    {
+      "id": "flaticon",
+      "title": "Flaticon",
+      "url": "https://flaticon.com",
+      "description": "Icon packs and vectors.",
+      "categories": ["icons", "design"]
+    },
+    {
+      "id": "icons8",
+      "title": "Icons8",
+      "url": "https://icons8.com",
+      "description": "Icons, illustrations, photos, and music.",
+      "categories": ["icons", "design", "photo"]
+    },
+    {
+      "id": "iconer",
+      "title": "Iconer",
+      "url": "https://iconer.com",
+      "description": "Icons and icon tools.",
+      "categories": ["icons", "design"]
+    },
+    {
+      "id": "fluenticons",
+      "title": "Fluent Icons",
+      "url": "https://fluenticons.co",
+      "description": "Fluent-style icon set.",
+      "categories": ["icons", "design"]
+    },
+    {
+      "id": "icon-icons",
+      "title": "Icon-Icons",
+      "url": "https://icon-icons.com",
+      "description": "Icon library.",
+      "categories": ["icons", "design"]
+    },
+
+    {
+      "id": "sketchfab",
+      "title": "Sketchfab",
+      "url": "https://sketchfab.com",
+      "description": "Explore and share 3D models.",
+      "categories": ["3d", "design", "inspiration"]
+    },
+    {
+      "id": "3dlogolab",
+      "title": "3DLogoLab",
+      "url": "https://3dlogolab.io",
+      "description": "3D logo generation tools.",
+      "categories": ["3d", "design", "tools"]
+    },
+    {
+      "id": "buildcores",
+      "title": "BuildCores",
+      "url": "https://buildcores.com",
+      "description": "Build your PC and compare parts.",
+      "categories": ["useful", "tools"]
+    },
+
+    {
+      "id": "shotdeck",
+      "title": "ShotDeck",
+      "url": "https://shotdeck.com",
+      "description": "Searchable database of film stills.",
+      "categories": ["cinema", "inspiration", "photo"]
+    },
+    {
+      "id": "yarn",
+      "title": "Yarn",
+      "url": "https://yarn.co",
+      "description": "Find quotes and clips from movies/TV.",
+      "categories": ["cinema", "education", "learning"]
+    }
+  ]
+}
