@@ -71,19 +71,19 @@ Every submission is reviewed manually.
 No frameworks. No dependencies. No build step.
 
 ## 📄 License
+All rights reserved.
 
-This project is provided for personal and educational use.
+This project is publicly accessible for viewing and educational reference.
 
-You are free to:
+You may:
+- view the source code
+- study the implementation for personal learning
 
-- use the code
-- modify it
-- self-host it
-- fork it for your own projects
+You may not:
+- redistribute the code or website
+- self-host or deploy this project or derivatives
+- recreate or rebrand the website or its structure
 
-Redistribution is permitted, provided proper credit is given.
+The content (curation and selection of links) is authored and maintained by the site owner.
 
-The content (curation and selection of links) remains the responsibility of the site owner.  
-This project is provided **as is**, without warranty of any kind.
-
-Please do not use Rabbit Hole to create deceptive, malicious, or exploitative link collections.
+This project is provided "as is", without warranty of any kind.
