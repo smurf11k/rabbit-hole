@@ -1086,6 +1086,118 @@
       "url": "https://yarn.co",
       "description": "Find quotes and clips from movies/TV.",
       "categories": ["cinema", "education", "learning"]
+    },
+    {
+      "id": "depth-of-field",
+      "title": "Depth of Field",
+      "url": "https://jherr.github.io/depth-of-field/",
+      "description": "Interactive visualizer explaining camera depth of field.",
+      "categories": ["photo", "cinema", "learning"]
+    },
+    {
+      "id": "gamma-ai",
+      "title": "Gamma AI",
+      "url": "https://gamma.app",
+      "description": "AI tool for generating presentations and documents.",
+      "categories": ["ai", "tools", "design"]
+    },
+    {
+      "id": "forms-follow-function",
+      "title": "Forms Follow Function",
+      "url": "https://fff.cmiscm.com",
+      "description": "Playful interactive experiments built around web forms.",
+      "categories": ["design", "fun"]
+    },
+    {
+      "id": "inkarnate",
+      "title": "Inkarnate",
+      "url": "https://inkarnate.com",
+      "description": "Fantasy and dungeon map creation tool.",
+      "categories": ["design", "games"]
+    },
+    {
+      "id": "nikon-small-world",
+      "title": "Nikon Small World",
+      "url": "https://nikonsmallworld.com",
+      "description": "Award-winning photomicrography from Nikon competitions.",
+      "categories": ["photo", "learning"]
+    },
+    {
+      "id": "convertio",
+      "title": "Convertio",
+      "url": "https://convertio.co",
+      "description": "Online file converter and compressor.",
+      "categories": ["tools", "useful"]
+    },
+    {
+      "id": "over-type",
+      "title": "Over Type",
+      "url": "https://uniqcode.com/typewriter",
+      "description": "Browser-based typewriter writing experience.",
+      "categories": ["tools", "fun"]
+    },
+    {
+      "id": "chemistry-nobook",
+      "title": "NOBOOK Virtual Laboratory",
+      "url": "https://chemistry-en.nobook.com",
+      "description": "Interactive virtual chemistry lab simulations.",
+      "categories": ["education", "science"]
+    },
+    {
+      "id": "language-guide",
+      "title": "Language Guide",
+      "url": "https://languageguide.org",
+      "description": "Visual language learning through labeled images.",
+      "categories": ["education", "learning"]
+    },
+    {
+      "id": "flash-museum",
+      "title": "Flash Museum",
+      "url": "https://flashmuseum.org",
+      "description": "Archive of classic Flash games and animations.",
+      "categories": ["fun", "games"]
+    },
+    {
+      "id": "blink-ai",
+      "title": "Blink AI",
+      "url": "https://blink.new",
+      "description": "AI workspace for notes, docs, and ideas.",
+      "categories": ["ai", "tools"]
+    },
+    {
+      "id": "shadegradient",
+      "title": "ShaderGradient",
+      "url": "https://shadergradient.co",
+      "description": "Tool for creating animated 3D gradients and shaders.",
+      "categories": ["design", "tools", "colors", "3d"]
+    },
+    {
+      "id": "pixelmotion",
+      "title": "PixelMotion",
+      "url": "https://pixelmotion.art",
+      "description": "Generate pixel art animations from images.",
+      "categories": ["design", "tools", "art"]
+    },
+    {
+      "id": "chefgpt",
+      "title": "ChefGPT",
+      "url": "https://chefgpt.xyz",
+      "description": "AI cooking assistant that builds recipes from ingredients.",
+      "categories": ["ai", "tools", "food"]
+    },
+    {
+      "id": "ascii-art-archive",
+      "title": "ASCII Art Archive",
+      "url": "https://www.asciiart.eu/",
+      "description": "Collection of classic and modern ASCII art.",
+      "categories": ["art", "fun"]
+    },
+    {
+      "id": "taste-atlas",
+      "title": "Taste Atlas",
+      "url": "https://tasteatlas.com",
+      "description": "World food map with traditional dishes and reviews.",
+      "categories": ["food", "travel", "culture"]
     }
   ]
 }
